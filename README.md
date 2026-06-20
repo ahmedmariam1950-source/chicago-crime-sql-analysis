@@ -22,4 +22,4 @@ This project strengthened my ability to:
 - Translate real-world questions into data queries
 🙌 Acknowledgment
 This project was completed as part of the She Code Africa Mentorship Program.
-![My SQL Result](crime.png)
+![My SQL Result](Screenshot 2026-06-20.png)
